@@ -1,23 +1,31 @@
-Crowdfunding Campaign Analysis | Power BI
-Project Description
-This project presents a comprehensive analysis of crowdfunding campaign data using Power BI to uncover key trends, performance indicators, and success factors across campaigns. The objective is to transform raw data into actionable insights through interactive and visually intuitive dashboards.
+📊 Crowdfunding Campaign Performance Analysis | Power BI
+Project Overview
+This project delivers an in-depth analysis of crowdfunding campaign performance using Power BI, with the aim of identifying patterns, trends, and key factors that influence funding success. The analysis transforms complex, raw datasets into structured insights through interactive dashboards that support strategic and data-driven decision-making.
+The project emphasizes understanding how funding goals, campaign duration, category, geographic distribution, and backer behavior impact the overall success of crowdfunding initiatives.
 
 Tools & Technologies
-Power BI – Data modeling, DAX calculations, interactive visualizations
-Microsoft Excel – Data cleaning, preprocessing, and structuring
+Power BI – Data modeling, DAX calculations, KPI creation, and interactive dashboards
+Microsoft Excel – Data cleaning, transformation, and preprocessing
+
+Data Preparation & Modeling
+Cleaned and standardized raw crowdfunding data to ensure accuracy and consistency
+Handled missing values and outliers to improve data quality
+Designed an optimized data model for efficient analysis and visualization
+Created calculated measures and KPIs using DAX for deeper insights
 
 Key Analysis & Features
-Evaluation of total funds raised, funding goals, and campaign success rates
-Comparative analysis of successful and unsuccessful campaigns
-Identification of top-performing categories and regions
-Analysis of backer behavior and contribution patterns
-Assessment of campaign duration and funding goal impact on outcomes
-Interactive filters for category, year, and campaign status
+Analysis of total funds raised vs funding goals across campaigns
+Measurement of campaign success and failure rates
+Identification of high-performing campaign categories and regions
+Evaluation of backer contribution trends and engagement patterns
+Assessment of campaign duration and goal-setting strategies on success rates
+Interactive slicers and filters enabling dynamic exploration of data by year, category, and status
 
-Outcomes & Insights
-Determined key factors influencing campaign success
-Highlighted trends in funding performance across categories
-Enabled data-driven decision-making through dynamic visual reports
+Insights & Outcomes
+Identified critical factors contributing to successful crowdfunding campaigns
+Revealed trends in donor behavior and funding distribution
+Provided actionable insights to optimize campaign planning and execution
+Enabled stakeholders to quickly compare campaign performance across multiple dimensions
 
 Use Case
-This dashboard can be utilized by business analysts, entrepreneurs, and marketing teams to evaluate crowdfunding performance, optimize campaign strategies, and improve funding outcomes based on historical data insights.
+This dashboard is valuable for data analysts, entrepreneurs, product managers, and marketing teams seeking to evaluate crowdfunding performance, refine campaign strategies, and improve fundraising outcomes through data-backed insights.
